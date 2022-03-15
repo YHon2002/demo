@@ -1,0 +1,19 @@
+.bang {
+    border: 1px solid black;
+}
+
+.bang {
+    border-collapse: collapse;
+}
+
+.bang tr:nth-child(odd) {
+    background-color: #eee;
+}
+
+.bang tr:nth-child(even) {
+    background-color: white;
+}
+
+.bang tr:nth-child(1) {
+    background-color: skyblue;
+}
